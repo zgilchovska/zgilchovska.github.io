@@ -1,0 +1,21 @@
+name: "mywebpage"  
+author: "Zlati Ilchovska"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly
+    css: style.css
+navbar:  
+  title: "Zlati Ilchovska"
+  right:
+  - text: "Home"
+    href: index.html
+  - text: "Bio"
+    href: bio.html
+  - text: "Projects and publications"
+    href: projects.html
+  - text: "Contacts"
+    href: contacts.html
+    
+  

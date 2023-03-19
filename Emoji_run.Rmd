@@ -1,0 +1,6 @@
+#run before committing website, to avoid emo::ji errors:
+install.packages("devtools")
+devtools::install_github("hadley/emo")
+
+#After loading _site and running the above, use this below to open website: 
+rmarkdown::render_site()
