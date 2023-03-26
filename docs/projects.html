@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>projects.knit</title>
+
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Zlati Ilchovska</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="home.html">Home</a>
+</li>
+<li>
+  <a href="bio.html">Bio</a>
+</li>
+<li>
+  <a href="projects.html">Projects and publications</a>
+</li>
+<li>
+  <a href="contacts.html">Contacts</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="projects-and-publications" class="section level1">
+<h1>Projects and publications</h1>
+<p> </p>
+<div align="justify">
+<div
+id="alongside-the-publications-from-my-phd-work-ive-also-been-working-on-a-few-open-scholarship-projects"
+class="section level3">
+<h3>Alongside the publications from my PhD work, I’ve also been working
+on a few Open Scholarship projects:</h3>
+<p> </p>
+<ul>
+<li>Creating a translated and adapted for Bulgarian version of
+<a href="https://forrt.org/glossary/" target="_blank">FORRT’s
+Glossary</a> (work in progress)</li>
+<li>Participated as a community reviewer of
+<a href="https://science.nasa.gov/open-science/transform-to-open-science" target="_blank">NASA’s
+Transform to Open Science curriculum</a></li>
+<li>Investigating the impact of open and reproducible scholarship on
+students’ attitudes, outcomes, and engagement, as part of
+<a href="https://forrt.org/impact/" target="_blank">FORRT</a>
+(manuscript under revision)</li>
+<li>Working on a project about the
+<a href="https://osf.io/f5zhj/" target="_blank">feminist ways of doing
+science</a> (manuscript in prep)</li>
+<li>Team leader of the University of Birmingham Team and analyst in
+<a href="https://many-speech-analyses.github.io/" target="_blank">Many
+Speech Analyses collaborative project </a>aiming to understand the
+robustness of speech analyses (in press)</li>
+<li>Contributing to
+the<a href="https://forrt.org/reversals/" target="_blank"> Replications
+and Reversals FORRT project</a>, where we’re developing a very large
+resource of the replicability of effects across the social and natural
+sciences (manuscript it prep)</li>
+<li>Taking part in
+<a href="https://forrt.org/summaries/" target="_blank">FORRT’s 100+
+Summaries of Open and Reproducible Science Literature project</a>, which
+is planned to be a very large resource for Open Scholarship educators
+and people who want to learn more about doing better science (manuscript
+in prep)</li>
+<li>Working on a project investigating best practices for publishing
+student graduate work (manuscript in prep). More information coming
+soon!</li>
+<li>Part of an international team
+<a href="https://osf.io/d6pu5/" target="_blank">investigating the
+adoption of Open Science practices cross-culturally</a> (see
+<a href="https://dx.doi.org/10.4135/9781529602074" target="_blank">Baum
+et al., 2022</a></li>
+<li>Contributed to the Bulgarian translation of the
+<a href="https://doi.org/10.1038/s41562-019-0772-6" target="_blank">Consensus-Based
+Transparancy Checklist </a>(see Balazs et al., 2020, for the original
+English version)  </li>
+</ul>
+<p> </p>
+</div>
+<div id="publications" class="section level3">
+<h3>Publications</h3>
+<p> </p>
+Bilingualism:
+<div style="text-indent: -40px; padding-left: 40px;">
+Ilchovska, Z. G. &amp; Culbertson, J. (2019). The learnability of
+evidential systems in the case of L1 Bulgarian and L2 English. In A.
+Gattnar, R. Hörnig, M. Störzer &amp; S. Featherston (Eds.),
+<em>Proceedings of Linguistic Evidence 2018: Experimental data drives
+linguistic theory</em>. Tübingen: University of Tübingen.
+<a href="http://dx.doi.org/10.15496/publikation-32634" target="_blank">http://dx.doi.org/10.15496/publikation-32634</a>
+</div>
+<p> </p>
+Open Scholarship:
+<div style="text-indent: -40px; padding-left: 40px;">
+Baum, M. A., Hart, A., Elsherif, M. M., Ilchovska, Z. G., Moreau, D.,
+Dokovova, M., LaPlume, A. A., Krautter, K., &amp; Staal, J. (2022).
+Research without borders: How to identify and overcome potential
+pitfalls in international large-team online research projects. In
+<em>SAGE Research Methods Cases</em>. doi:
+<a href="https://dx.doi.org/10.4135/9781529602074" target="_blank">https://dx.doi.org/10.4135/9781529602074</a>
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+Coretta, S., Casillas, J, Roessig, S., Franke, M., Al-Hoorie, A. H.,
+Al-Tamimi, J., Alotaibi, N. E., AlShakhori, M. K., Altmiller, R. M.,
+Arantes, P., Athanasopoulou, A., Baese-Berk, M. M., Bailey, G., Sangma,
+C. B. A., Beier, E. J., Benavides, G. M., Benker, N., BensonMeyer, E.
+P., Benway, N. R., (…) &amp; Roettger, T. B. (in principle accepted
+Registered Report, 2021). Multidimensional signals and analytic
+flexibility: Estimating degrees of freedom in human speech analyses. In
+Advances in Methods and Practices in Psychological Science. PsyArXiv.
+doi: 10.31234/osf.io/q8t2k
+</div>
+<div style="text-indent: -40px; padding-left: 40px;">
+Pownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R.,
+Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveira, C.
+M. F., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S.,
+Terry, J., Albayrak-Aydemir, N., Dechterenko, F., Alzahawi, S., Baker ,
+B. J., (…) &amp; Sadhwani, S. (2022). The impact of open and
+reproducible scholarship on students’ scientific literacy, engagement,
+and attitudes towards science: A review and synthesis of the evidence.
+MetaArXiv.
+<a href="https://osf.io/preprints/metaarxiv/9e526/" target="_blank">https://osf.io/preprints/metaarxiv/9e526/</a>
+</div>
+<p> </p>
+</div>
+<div id="presentations" class="section level3">
+<h3>Presentations</h3>
+<p> </p>
+2022</br>
+<ul>
+<li>
+Ilchovska, Z. G., Krott, A., &amp; Mazaheri, A. (2022). Bilingual
+language switching: ERP and time frequency EEG processes [Poster
+presentation]. 4th International Symposium on Bilingual and L2
+Processing in Adults and Children (ISBPAC 2022). Tromsø, Norway.
+</li>
+</br>
+</ul>
+2018</br>
+<ul>
+<li>
+Ilchovska, Z. G. &amp; Culbertson, J. (2018). The Learnability of
+Evidential Systems in the Case of L1 Bulgarian and L2 English [Poster
+presentation]. Linguistic Evidence Conference. Tübingen, Germany.
+</li>
+<li>
+Ilchovska, Z. G. &amp; Culbertson, J. (2018). The Learnability of
+Evidential Systems in the Case of L1 Bulgarian and L2 English [Poster
+presentation]. 26th Conference of the Student Organisation of
+Linguistics in Europe. London, UK.
+</li>
+</br>
+</ul>
+2017</br>
+<ul>
+<li>
+Ilchovska, Z. (2017). The Bicultural Identity of Bilinguals Speaking an
+Endangered Mesoamerican Language [Oral presentation]. 11th International
+Symposium on Bilingualism. Limerick, Republic of Ireland.
+</li>
+</br>
+</ul>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

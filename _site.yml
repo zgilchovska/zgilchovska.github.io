@@ -10,7 +10,7 @@ navbar:
   title: "Zlati Ilchovska"
   right:
   - text: "Home"
-    href: index.html
+    href: home.html
   - text: "Bio"
     href: bio.html
   - text: "Projects and publications"

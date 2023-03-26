@@ -1,0 +1,26 @@
+# About
+&nbsp;
+
+<div align="justify">
+I am a PhD researcher in the <a href="https://www.birmingham.ac.uk/schools/psychology/index.aspx" target="_blank">School of Psychology</a>, University of Birmingham, working in the <a href="https://andreakrott.com/" target="_blank">Krott Lab</a>.
+My supervisors are Dr. Andrea Krott and <a href="https://alimazaheri.com/" target="_blank">Dr. Ali Mazaheri</a>. 
+
+I'm also employed as a Lecturer of Psychology in the <a href="https://www.birmingham.ac.uk/schools/education/index.aspx" target="_blank">School of Education (University of Birmingham)</a>, where I teach Quantitative Research Methods I and supervise MSc TESOL students for their dissertations.
+
+My interests include bi-/multilingualism, cognitive functioning, language switching, brain functioning and structure in bi/-multilinguals, and bi-/multilingualism and aging. I'm also very passionate about Open Scholarship and doing and teaching better science. 
+
+My pronouns are she/her and you can approach me in `r emo::ji("bulgaria")`, `r emo::ji("uk")`, `r emo::ji("mexico")`, and to some degree in `r emo::ji("serbia")`, `r emo::ji("russia")`, `r emo::ji("saudi_arabia")`, and `r emo::ji("germany")`.
+</div>
+&nbsp;
+
+<div align="center">
+<img src="C:/Users/44793/Documents/R/mywebpage/me.png"  width="50%" height="50%"></div>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div align="justify">
+This website was created in RStudio and GitHub following the <a href="https://debruine.github.io/tutorials/webpages.html" target="_blank">tutorial by Prof. Lisa DeBruine</a> and <a href="https://www.youtube.com/watch?v=RD_ZR4Ulzec&t=3116s" target="_blank">this amazing workshop by Ms. Freya Watkins</a>.</span>
+</div>
