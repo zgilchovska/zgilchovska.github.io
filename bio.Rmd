@@ -11,6 +11,7 @@ My current work revolves around cognition and bilingualism, and I'm particularly
 ## Research and teaching experience
 &nbsp;
 
+<div align="justify">
 *	**January 2022 – currently: Lecturer in Psychology at the Department of Education and Social Justice, University of Birmingham**. I'm the module lead for Quantitative Research Methods I, for Psychology of Education undergraduates. I also mentor students and supervise MSc dissertations. 
 *	**June – September 2021: Research Assistant at the School of Psychology, University of Birmingham**. I was collecting data on the project <a href="https://readyornotstudy.uk/" target="_blank">Ready or Not</a>, on the social, emotional and cognitive development of reception-aged children, and their challenges in transitioning to the first school year. 
 * **April 2021 – April 2022: Research Assistant at the School of Psychology, University of Birmingham**. I collected EEG data for the ESRC project <a href="https://research.birmingham.ac.uk/en/projects/the-effects-of-individual-differences-in-bilingual-experience-on-" target="_blank">The effects of individual differences in bilingual experience on cognitive control networks</a>. 
@@ -21,7 +22,7 @@ My current work revolves around cognition and bilingualism, and I'm particularly
 *	**May – August 2017: Research Assistant, at the University of Edinburgh**. I was responsible for recruiting and testing children on a fNIRS paradigm for a project examining reactive and proactive control markers. 
 *	**February - June 2014: Psychology Intern in Cognitive Psychophysiology, Institute of Neurobiology, Bulgarian Academy of Sciences**, Sofia, Bulgaria. 
 *	**December 2012 – February 2013: Psychology Intern in the Centre for Military Psychology and Psychological Assessment, and the Psychiatry Clinic of Military Medical Academy**, Sofia, Bulgaria. 
-
+</div>
 &nbsp;
 
 For a copy of my complete CV, please contact me.
