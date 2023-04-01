@@ -14,7 +14,7 @@
   * Contributing to the<a href="https://forrt.org/reversals/" target="_blank"> Replications and Reversals FORRT project</a>, where we're developing a very large resource of the replicability of effects across the social and natural sciences (manuscript in prep)
   * Taking part in <a href="https://forrt.org/summaries/" target="_blank">FORRT's 100+ Summaries of Open and Reproducible Science Literature project</a>, which is planned to be a very large resource for Open Scholarship educators and people who want to learn more about doing better science (manuscript in prep)
   * Working on a project investigating best practices for publishing student graduate work (manuscript in prep). More information coming soon!
-  * Part of an international team <a href="https://osf.io/d6pu5/" target="_blank">investigating the adoption of Open Science practices cross-culturally</a> (see <a href="https://dx.doi.org/10.4135/9781529602074" target="_blank">Baum et al., 2022</a>
+  * Part of an international team <a href="https://osf.io/d6pu5/" target="_blank">investigating the adoption of Open Science practices cross-culturally</a> (see <a href="https://dx.doi.org/10.4135/9781529602074" target="_blank">Baum et al., 2022</a>)
   * Contributed to the Bulgarian translation of the <a href="https://doi.org/10.1038/s41562-019-0772-6" target="_blank">Consensus-Based Transparancy Checklist </a>(see Balazs et al., 2020, for the original English version)
 &nbsp;
 
