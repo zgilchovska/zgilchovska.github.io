@@ -14,7 +14,7 @@ My pronouns are she/her and you can approach me in `r emo::ji("bulgaria")`, `r e
 &nbsp;
 
 <div align="center">
-<img src="C:/Users/44793/Documents/R/mywebpage/me.png"  width="50%" height="50%"></div>
+<img src="C:/Users/44793/Documents/R/mywebpage/me.PNG"  width="50%" height="50%"></div>
 &nbsp;
 
 &nbsp;
