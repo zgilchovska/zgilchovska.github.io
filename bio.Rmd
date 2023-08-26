@@ -2,9 +2,9 @@
 &nbsp;
 
 <div align="justify">
-I graduated with an MSc in Evolution of Language and Cognition from the University of Edinburgh in 2017, and an MSc in Intercultural Communication from the University of Warwick in 2015. In my MSc theses, I investigated the learnability of evidentiality grammatical structures for bilinguals, and cultural identity of bilingual speakers of endangered Mesoamerican languages. I gained my undergraduate degree in Psychology in 2010 from Sofia University "St. Kliment Ohridski", Bulgaria. 
+I recently handed in my doctorate thesis investigating the individual differences in the bilingual language switching abilities. I graduated with an MSc in Evolution of Language and Cognition from the University of Edinburgh in 2017, and an MSc in Intercultural Communication from the University of Warwick in 2015. In my MSc theses, I investigated the learnability of evidentiality grammatical structures for bilinguals, and cultural identity of bilingual speakers of endangered Mesoamerican languages. I gained my undergraduate degree in Psychology in 2010 from Sofia University "St. Kliment Ohridski", Bulgaria. 
 
-My current work revolves around cognition and bilingualism, and I'm particularly interested in how individual differences of daily language practices affect cognition and brain functioning. I do my best to carry out my work according to the field's Open Scholarship standards for transparency and reproducibility, and I also investigate the application of Open Scholarship myself. 
+My current work revolves around cognition and bilingualism, and I'm particularly interested in how individual differences of daily language practices affect cognition and brain functioning. Another significant part of my interests includes brain functioning and structure in dementia and healthy aging. I do my best to carry out my work according to the field's Open Scholarship standards for transparency and reproducibility, and I also investigate the application of Open Scholarship myself. 
 </div>
 &nbsp;
 
@@ -12,7 +12,8 @@ My current work revolves around cognition and bilingualism, and I'm particularly
 &nbsp;
 
 <div align="justify">
-*	**January 2022 – currently: Lecturer in Psychology at the Department of Education and Social Justice, University of Birmingham**. I'm the module lead for Quantitative Research Methods I, for Psychology of Education undergraduates. I also mentor students and supervise MSc dissertations. 
+*	**May 2023 – currently: Postdoctoral Researcher, at the School of Psychology, University of Nottingham**. I'm collecting and analysing (f)MRI, behavioural and neuropsychological data of dementia patients and healthy older adults, in order to answer questions about the neural changes in frontotemporal dementia and their relationship to cognition. 
+*	**January 2022 – July 2023: Lecturer in Psychology at the Department of Education and Social Justice, University of Birmingham**. I'm the module lead for Quantitative Research Methods I, for Psychology of Education undergraduates. I also mentor students and supervise MSc dissertations. 
 *	**June – September 2021: Research Assistant at the School of Psychology, University of Birmingham**. I was collecting data on the project <a href="https://readyornotstudy.uk/" target="_blank">Ready or Not</a>, on the social, emotional and cognitive development of reception-aged children, and their challenges in transitioning to the first school year. 
 * **April 2021 – April 2022: Research Assistant at the School of Psychology, University of Birmingham**. I collected EEG data for the ESRC project <a href="https://research.birmingham.ac.uk/en/projects/the-effects-of-individual-differences-in-bilingual-experience-on-" target="_blank">The effects of individual differences in bilingual experience on cognitive control networks</a>. 
 *	**September 2018 – April 2022: Teaching Associate at the School of Psychology, University of Birmingham**. My role was supporting the lead teaching staff on the postgraduate courses Current Research in Psychology, Foundations in Critical Thinking, and the undergraduate courses Language and Communication, Social and Differential Psychology, Social Psychology of the Person, Research Methods (I, II and IV), and Cognitive Psychology and Memory Loss (Medical School).
