@@ -2,12 +2,12 @@
 &nbsp;
 
 <div align="justify">
-I am a PhD researcher in the <a href="https://www.birmingham.ac.uk/schools/psychology/index.aspx" target="_blank">School of Psychology</a>, University of Birmingham, working in the <a href="https://andreakrott.com/" target="_blank">Krott Lab</a>.
-My supervisors are Dr. Andrea Krott and <a href="https://alimazaheri.com/" target="_blank">Dr. Ali Mazaheri</a>. 
+I'm a Postdoctoral Researcher in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology (University of Nottingham)</a>, where I work on a project, investigating the cognition, brain functioning, structure and neurochemistry in frontotemporal dementia, supervised by Dr. JeYoung Jung.
 
-I'm also employed as a Postdoctoral Researcher in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology (University of Nottingham)</a>, where I work on a project, investigating the cognition, brain functioning, structure and neurochemistry in frontotemporal dementia, supervised by Dr. JeYoung Jung. 
+I recently finished my PhD in the <a href="https://www.birmingham.ac.uk/schools/psychology/index.aspx" target="_blank">School of Psychology</a>, University of Birmingham, working in the <a href="https://andreakrott.com/" target="_blank">Krott Lab</a>.
+My two superhero supervisors and mentors were Dr. Andrea Krott and <a href="https://alimazaheri.com/" target="_blank">Dr. Ali Mazaheri</a>. 
 
-My interests include bi-/multilingualism, cognitive functioning, language switching, brain functioning and structure in bi/-multilinguals, healthy aging and dementia. I'm also very passionate about Open Scholarship and doing and teaching better science. 
+My research interests include dementia and healthy aging, bi-/multilingualism as a possible cognitive/brain protective life-long experience, cognitive functioning in bilinguals, brain functioning and structure in healthy adults and in dementia. I'm also very passionate about Open Scholarship and doing and teaching better science. 
 
 My pronouns are she/her and you can approach me in `r emo::ji("bulgaria")`, `r emo::ji("uk")`, `r emo::ji("mexico")`, and to some degree in `r emo::ji("serbia")`, `r emo::ji("russia")`, `r emo::ji("saudi_arabia")`, and `r emo::ji("germany")`. FHEA.
 </div>
