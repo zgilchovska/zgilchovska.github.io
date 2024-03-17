@@ -2,7 +2,7 @@
 &nbsp;
 
 <div align="justify">
-I'm a Postdoctoral Researcher in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology (University of Nottingham)</a>, where I work on a project, investigating the cognition, brain functioning, structure and neurochemistry in frontotemporal dementia, supervised by a <href="https://scholar.google.co.uk/citations?user=qItWAK4AAAAJ&hl=en" target="_blank">Dr. JeYoung Jung</a>.
+I'm a Postdoctoral Researcher in the <a href="https://www.nottingham.ac.uk/psychology/welcome-to-psychology.aspx" target="_blank">School of Psychology (University of Nottingham)</a>, where I work on a project, investigating the cognition, brain functioning, structure and neurochemistry in frontotemporal dementia, supervised by <a href="https://scholar.google.co.uk/citations?user=qItWAK4AAAAJ&hl=en" target="_blank">Dr. JeYoung Jung</a>.
 
 I recently finished my PhD in the <a href="https://www.birmingham.ac.uk/schools/psychology/index.aspx" target="_blank">School of Psychology</a>, University of Birmingham, working in the <a href="https://andreakrott.com/" target="_blank">Krott Lab</a>.
 My two superhero supervisors and mentors were Dr. Andrea Krott and <a href="https://alimazaheri.com/" target="_blank">Dr. Ali Mazaheri</a>. 
