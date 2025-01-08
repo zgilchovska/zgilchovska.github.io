@@ -2,19 +2,18 @@
 &nbsp;
 
 <div align="justify">
-### Alongside the publications from my PhD and my postdoc work, I've also been working on a few Open Scholarship and Meta-Science projects:
+### Alongside my jobs and studies, I've also been working on a few Open Scholarship and Meta-Science projects:
 &nbsp;
 
-
   * Member of the University of Birmingham team for Many Analysts in Gender-Inclusive Language project, investigating the effects of gender-inclusive language forms on the cognitive retrieval of female exemplars. More information coming soon!   
-  * Member of Bulgarian team of the Psychological Science Accelerator's <a href="https://psysciacc.org/projects/psa008.html" target="_blank">Minimal Groups Study</a>. 
+  * Member of Bulgarian team of the Psychological Science Accelerator's <a href="https://doi.org/10.31234/osf.io/5gpr4" target="_blank">Minimal Groups Study</a>. 
   * Open Scholarship in the Developing World project, in collaboration with FORRT. More information coming soon! 
   * Creating a translated and adapted for Bulgarian version of <a href="https://forrt.org/glossary/" target="_blank">FORRT's Glossary</a> (work in progress)
   * Participated as a community reviewer of <a href="https://science.nasa.gov/open-science/transform-to-open-science" target="_blank">NASA's Transform to Open Science curriculum</a>
   * Investigating the impact of open and reproducible scholarship on students’ attitudes, outcomes, and engagement, as part of <a href="https://forrt.org/impact/" target="_blank">FORRT</a> (see <a href="https://doi.org/10.1098/rsos.221255" target="_blank">Pownall et al., 2023</a>)
   * Working on a project about the <a href="https://osf.io/f5zhj/" target="_blank">feminist ways of doing science</a> (<a href="https://doi.org/10.31219/osf.io/2rcuz" target="_blank">Hartmann et al., 2023</a>)
   * Team leader of the University of Birmingham Team and analyst in <a href="https://many-speech-analyses.github.io/" target="_blank">Many Speech Analyses collaborative project </a>aiming to understand the robustness of speech analyses (see <a href="https://doi.org/10.1177/25152459231162567" target="_blank">Coretta et al., 2023</a>)
-  * Contributing to the<a href="https://forrt.org/reversals/" target="_blank"> Replications and Reversals FORRT project</a>, where we're developing a very large resource of the replicability of effects across the social and natural sciences (manuscript in prep)
+  * Contributed to the<a href="https://forrt.org/reversals/" target="_blank"> Replications and Reversals FORRT project</a>, where we developed a very large living resource of the reproducibility of effects across the social and natural sciences (see <a href="https://doi.org/10.5334/jopd.101" target="_blank">Röseler et al., 2024</a>)
   * Taking part in <a href="https://forrt.org/summaries/" target="_blank">FORRT's 100+ Summaries of Open and Reproducible Science Literature project</a>, which is planned to be a very large resource for Open Scholarship educators and people who want to learn more about doing better science (manuscript in prep)
   * Working on a project investigating best practices for publishing student graduate work (manuscript in prep). More information coming soon!
   * Part of an international team <a href="https://osf.io/d6pu5/" target="_blank">investigating the adoption of Open Science practices cross-culturally</a> (see <a href="https://dx.doi.org/10.4135/9781529602074" target="_blank">Baum et al., 2022</a>)
@@ -26,6 +25,13 @@
 ### Publications
 &nbsp;
 
+Aging and dementia:
+<div style="text-indent: -40px; padding-left: 40px;">
+Bailey, M., Ilchovska, Z. G., Hosseini, A., & Jung, J. (in press). Understanding the neural basis of Alzheimer’s disease with genetic factors: A neuroimaging meta-analysis. *Journal of Clinical Neurology, 20*(5), 469-477. <a href="https://doi.org/10.3988/jcn.2024.0176" target="_blank"></a></div>
+<div style="text-indent: -40px; padding-left: 40px;">
+Ilchovska, Z. G., Lockwood, J., Proctor, Lambon Ralph, M. A., E., Hosseini, A., & Jung, J. (n.d.). The neural basis of frontotemporal dementia (FTD): Insights from ALE meta-analyses of four FTD subtypes encompassing 8,057 participants [Under review]</div>
+&nbsp;
+
 Bilingualism:
 <div style="text-indent: -40px; padding-left: 40px;">
 Ilchovska, Z. G. & Culbertson, J. (2019). The learnability of evidential systems in the case of L1 Bulgarian and L2 English. In A. Gattnar, R. Hörnig, M. Störzer & S. Featherston (Eds.), *Proceedings of Linguistic Evidence 2018: Experimental data drives linguistic theory*. Tübingen: University of Tübingen. <a href="http://dx.doi.org/10.15496/publikation-32634" target="_blank">http://dx.doi.org/10.15496/publikation-32634</a> </div>
@@ -35,11 +41,18 @@ Open Scholarship:
 <div style="text-indent: -40px; padding-left: 40px;">
 Baum, M. A., Hart, A., Elsherif, M. M., Ilchovska, Z. G., Moreau, D., Dokovova, M., LaPlume, A. A., Krautter, K., & Staal, J. (2022). Research without borders: How to identify and overcome potential pitfalls in international large-team online research projects. In *SAGE Research Methods Cases*. <a href="https://dx.doi.org/10.4135/9781529602074" target="_blank">https://dx.doi.org/10.4135/9781529602074</a> </div>
 <div style="text-indent: -40px; padding-left: 40px;">
+Brodeur, A., Valenta, D., Marcoci, A., Aparicio, J. O., Mikola, D., Barbarioli, B., Alexander, R., Deer, L., Stafford, T., Vilhuber, L., et al. (n.d.). Comparison of human, AI-assisted, and quasi-automated approaches to assessing research reproducibility in quantitative social science.[Under review] </div>
+<div style="text-indent: -40px; padding-left: 40px;">
 Coretta, S., Casillas, J, Roessig, S., Franke, M., Al-Hoorie, A. H., Al-Tamimi, J., Alotaibi, N. E., AlShakhori, M. K., Altmiller, R. M., Arantes, P., Athanasopoulou, A., Baese-Berk, M. M., Bailey, G., Sangma, C. B. A., Beier, E. J., Benavides, G. M., Benker, N., BensonMeyer, E. P., Benway, N. R., (...) & Roettger, T. B. (2023). Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses. *Advances in Methods and Practices in Psychological Science, 6*(3). <a href="https://doi.org/10.1177/25152459231162567" target="_blank">https://doi.org/10.1177/25152459231162567</a></div>
 <div style="text-indent: -40px; padding-left: 40px;">
-Hartmann, H., Darda, K. M., Meletaki, V., Ilchovska, Z. G., Corral-Frias, N. S., Hofer, G., Azevedo, F., & Sauve, S. A. (2023). Incorporating feminist practices into (psychological) science - the why, the what and the how. <a href="https://doi.org/10.31219/osf.io/2rcuz" target="_blank">https://doi.org/10.31219/osf.io/2rcuz</a> </div>
+Cuadra, D., Castro, P., Gonzalez, I., Oyanadel, C., Pérez, D., Ilchovska, Z., Sandoval, J. & Morales, D. (2024). Identidad profesional y progreso académico en la formación inicial de futuros profesores chilenos: estudio mixto. [Professional identity and academic progress in the initial training of Chilean teachers: A mixed study.]. *Logos: Revista de Lingüística, Filosofía y Literatura, 34*(1), 437-463. <a href="https://doi.org/10.1177/25152459231162567" target="_blank">http://doi.org/10.15443/RL3419</a></div>
 <div style="text-indent: -40px; padding-left: 40px;">
-Pownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveira, C. M. F., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Dechterenko, F., Alzahawi, S., Baker , B. J., (...) & Sadhwani, S. (2023). Teaching open and reproducible scholarship: A critical review of the evidence base for current pedagogical methods and their outcomes. *Royal Society Open Science, 10*(5). <a href="https://doi.org/10.1098/rsos.221255" target="_blank">https://doi.org/10.1098/rsos.221255</a> </div>
+Hartmann, H., Darda, K. M., Meletaki, V., Ilchovska, Z. G., Corral-Frias, N. S., Hofer, G., Azevedo, F., & Sauve, S. A. (2023). Incorporating feminist practices into (psychological) science - the why, the what and the how. <a href="https://doi.org/10.31219/osf.io/2rcuz" target="_blank">https://doi.org/10.31219/osf.io/2rcuz</a> [Under review] </div>
+<div style="text-indent: -40px; padding-left: 40px;">
+Pownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveira, C. M. F., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Dechterenko, F., Alzahawi, S., Baker , B. J., (...) & Sadhwani, S. (2023). Teaching open and reproducible scholarship: A critical review of the evidence base for current pedagogical methods and their outcomes. *Royal Society Open Science, 10*(5). <a href="https://doi.org/10.1098/rsos.221255" target="_blank">https://doi.org/10.1098/rsos.221255</a></div>
+<div style="text-indent: -40px; padding-left: 40px;">
+Röseler, L., Kaiser, L., Doetsch, C., Klett, N., Seida, C., Schütz, A., Aczel, B., Adelina, N., Agostini, V., Alarie, S., Albayrak-Aydemir, N., Aldoh, A., Al-Hoorie, A. H., Azevedo, F., Baker, B. J., Barth, C. L., Beitner, J., Brick, C., (...) Ilchovska, Z. G., (...) & Zhang, Y. (2024). The Replication Database: Documenting the Replicability of Psychological Science. *Journal of Open Psychology Data, 12*(8), 1–23. <a href="https://doi.org/10.1098/rsos.221255" target="_blank">https://doi.org/10.5334/jopd.101</a></div>
+Yang, X. Schulz, J., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., Dalgar, I., Lewis, S. C., Exner, A., Buchanan, E. M., Lander, K., Becker, M., Du, H., Johri, A., Selcuk, E., Gallyamova, A., Calluso, C., Reggev, N., (...) Ilchovska, Z. G., (...) & Dunham, Y. (2024, August 21). Large-scale cross-societal examination of real- and minimal-group biases. PsyArXiv. <a href="https://doi.org/10.1098/rsos.221255" target="_blank">https://doi.org/10.31234/osf.io/5gpr4</a></div>
 &nbsp;
 
 ### Presentations
@@ -47,29 +60,31 @@ Pownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R., Flack, Z., 
 
 2024</br>
 <ul>
-<li>Ilchovska, Z. G., Lockwood, J., Proctor, Lambon Ralph, M. A., E., Hosseini, A., & Jung, J. (2024). The neural basis of frontotemporal dementia: An ALE meta-analysis [Poster presentation]. Neuroscience at Nottingham Event,  University of Nottingham, UK.</li></br>
+<li>Ilchovska, Z. G., Mazaheri, A., & Krott, A. (2024).Testing the Switching Experience and Environment Questionnaire (SEEQ): A measure of bilingual switching behaviours [Poster presentation]. International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC), Swansea University, UK</li></br>
+<li>Ilchovska, Z. G., Mazaheri, A., & Krott, A. (2024).Testing the Switching Experience and Environment Questionnaire (SEEQ): A measure of bilingual switching behaviours [Poster presentation]. Experimental Psychology Society meeting, Nottingham Trent University, UK</li></br>
+<li>Ilchovska, Z. G., Lockwood, J., Proctor, Lambon Ralph, M. A., E., Hosseini, A., & Jung, J. (2024). The neural basis of frontotemporal dementia: An ALE meta-analysis [Poster presentation]. Neuroscience at Nottingham Meeting,  University of Nottingham, UK.</li></br>
 </ul>
 
 2023</br>
 <ul>
 <li>Ilchovska, Z. G., Lockwood, J., Proctor, Lambon Ralph, M. A., E., Hosseini, A., & Jung, J. (2023). The neural basis of frontotemporal dementia: An ALE meta-analysis [Poster presentation]. British Neuropsychological Society Autumn Meeting 2023, Clinical Neuroscience Centre, UCL, London.</li>
-<li>Ilchovska, Z. G., Krott, A., & Mazaheri, A. (2023). Bilingual language switching: ERP and time frequency EEG processes [Poster presentation]. 14th International Symposium on Bilingualism (ISB-14). Sydney, Australia.</li></br>
+<li>Ilchovska, Z. G., Krott, A., & Mazaheri, A. (2023). Bilingual language switching: ERP and time frequency EEG processes [Poster presentation]. 14th International Symposium on Bilingualism (ISB-14), Sydney, Australia.</li></br>
 </ul>
 
 2022</br>
 <ul>
-<li>Ilchovska, Z. G., Krott, A., & Mazaheri, A. (2022). Bilingual language switching: ERP and time frequency EEG processes [Poster presentation]. 4th International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC 2022). Tromsø, Norway.</li></br>
+<li>Ilchovska, Z. G., Krott, A., & Mazaheri, A. (2022). Bilingual language switching: ERP and time frequency EEG processes [Poster presentation]. 4th International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC 2022), Tromsø, Norway.</li></br>
 </ul>
 
 2018</br>
 <ul>
-<li>Ilchovska, Z. G. & Culbertson, J. (2018). The Learnability of Evidential Systems in the Case of L1 Bulgarian and L2 English [Poster presentation]. Linguistic Evidence Conference. Tübingen, Germany.</li>
-<li>Ilchovska, Z. G. & Culbertson, J. (2018). The Learnability of Evidential Systems in the Case of L1 Bulgarian and L2 English [Poster presentation]. 26th Conference of the Student Organisation of Linguistics in Europe. London, UK.</li></br> 
+<li>Ilchovska, Z. G. & Culbertson, J. (2018). The Learnability of Evidential Systems in the Case of L1 Bulgarian and L2 English [Poster presentation]. Linguistic Evidence Conference, Tübingen, Germany.</li>
+<li>Ilchovska, Z. G. & Culbertson, J. (2018). The Learnability of Evidential Systems in the Case of L1 Bulgarian and L2 English [Poster presentation]. 26th Conference of the Student Organisation of Linguistics in Europe, London, UK.</li></br> 
 </ul>
 
 2017</br>
 <ul>
-<li>Ilchovska, Z. (2017). The Bicultural Identity of Bilinguals Speaking an Endangered Mesoamerican Language [Oral presentation]. 11th International Symposium on Bilingualism. Limerick, Republic of Ireland.</li></br> 
+<li>Ilchovska, Z. (2017). The Bicultural Identity of Bilinguals Speaking an Endangered Mesoamerican Language [Oral presentation]. 11th International Symposium on Bilingualism, Limerick, Republic of Ireland.</li></br> 
 </ul>
 
 
