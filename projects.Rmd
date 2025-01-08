@@ -52,6 +52,7 @@ Hartmann, H., Darda, K. M., Meletaki, V., Ilchovska, Z. G., Corral-Frias, N. S.,
 Pownall, M., Azevedo, F., König, L. M., Slack, H. R., Evans, T. R., Flack, Z., Grinschgl, S., Elsherif, M., Gilligan-Lee, K., Oliveira, C. M. F., Gjoneska, B., Kanadadze, T., Button, K., Ashcroft-Jones, S., Terry, J., Albayrak-Aydemir, N., Dechterenko, F., Alzahawi, S., Baker , B. J., (...) & Sadhwani, S. (2023). Teaching open and reproducible scholarship: A critical review of the evidence base for current pedagogical methods and their outcomes. *Royal Society Open Science, 10*(5). <a href="https://doi.org/10.1098/rsos.221255" target="_blank">https://doi.org/10.1098/rsos.221255</a></div>
 <div style="text-indent: -40px; padding-left: 40px;">
 Röseler, L., Kaiser, L., Doetsch, C., Klett, N., Seida, C., Schütz, A., Aczel, B., Adelina, N., Agostini, V., Alarie, S., Albayrak-Aydemir, N., Aldoh, A., Al-Hoorie, A. H., Azevedo, F., Baker, B. J., Barth, C. L., Beitner, J., Brick, C., (...) Ilchovska, Z. G., (...) & Zhang, Y. (2024). The Replication Database: Documenting the Replicability of Psychological Science. *Journal of Open Psychology Data, 12*(8), 1–23. <a href="https://doi.org/10.1098/rsos.221255" target="_blank">https://doi.org/10.5334/jopd.101</a></div>
+<div style="text-indent: -40px; padding-left: 40px;">
 Yang, X. Schulz, J., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., Dalgar, I., Lewis, S. C., Exner, A., Buchanan, E. M., Lander, K., Becker, M., Du, H., Johri, A., Selcuk, E., Gallyamova, A., Calluso, C., Reggev, N., (...) Ilchovska, Z. G., (...) & Dunham, Y. (2024, August 21). Large-scale cross-societal examination of real- and minimal-group biases. PsyArXiv. <a href="https://doi.org/10.1098/rsos.221255" target="_blank">https://doi.org/10.31234/osf.io/5gpr4</a></div>
 &nbsp;
 
@@ -60,8 +61,8 @@ Yang, X. Schulz, J., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., Dalgar,
 
 2024</br>
 <ul>
-<li>Ilchovska, Z. G., Mazaheri, A., & Krott, A. (2024).Testing the Switching Experience and Environment Questionnaire (SEEQ): A measure of bilingual switching behaviours [Poster presentation]. International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC), Swansea University, UK</li></br>
-<li>Ilchovska, Z. G., Mazaheri, A., & Krott, A. (2024).Testing the Switching Experience and Environment Questionnaire (SEEQ): A measure of bilingual switching behaviours [Poster presentation]. Experimental Psychology Society meeting, Nottingham Trent University, UK</li></br>
+<li>Ilchovska, Z. G., Mazaheri, A., & Krott, A. (2024).Testing the Switching Experience and Environment Questionnaire (SEEQ): A measure of bilingual switching behaviours [Poster presentation]. International Symposium on Bilingual and L2 Processing in Adults and Children (ISBPAC), Swansea University, UK</li>
+<li>Ilchovska, Z. G., Mazaheri, A., & Krott, A. (2024).Testing the Switching Experience and Environment Questionnaire (SEEQ): A measure of bilingual switching behaviours [Poster presentation]. Experimental Psychology Society meeting, Nottingham Trent University, UK</li>
 <li>Ilchovska, Z. G., Lockwood, J., Proctor, Lambon Ralph, M. A., E., Hosseini, A., & Jung, J. (2024). The neural basis of frontotemporal dementia: An ALE meta-analysis [Poster presentation]. Neuroscience at Nottingham Meeting,  University of Nottingham, UK.</li></br>
 </ul>
 
